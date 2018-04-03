@@ -32,6 +32,17 @@ Hale Manoa allows students to find a roommate with similar interests. Students w
 
 # Login
 
+<img src="images/Login.png">
+
+
+# Homes
+
+<img src="images/Homes.png">
+
+
+# Host
+
+<img src="images/Host.png">
 
 
 # Guided Tour
