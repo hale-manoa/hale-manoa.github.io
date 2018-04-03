@@ -23,6 +23,16 @@ Hale Manoa allows students to find a roommate with similar interests. Students w
 * Add reviews / community feedback
 * Secure login via the UH authentication system
 
+## Sample Mockup Pages 
+
+# Landing
+
+<img src="images/Landing.png">
+
+
+# Login
+
+
 
 # Guided Tour
 \* Coming Soon *
