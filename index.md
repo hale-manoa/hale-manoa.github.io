@@ -1,8 +1,10 @@
+
 # Table of Contents
 
 * [About Hale Manoa](#about-hale-manoa)
   * [Key Features](#key-features)
   * [Guided Tour](#guided-tour)
+  * [Sample Mockup Pages](#sample-mockup-pages)
 * [Developer's Guide](#developers-guide)
 * [Development History](#development-history)
 
