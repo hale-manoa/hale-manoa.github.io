@@ -1,3 +1,7 @@
-title: Hale Manoa
+title: Hale Manoa | Application
+# Edit next line, replacing 'techfolios' with your github username
+url: "https://hale-manoa.github.io"
+# Edit next line so that baseurl is "" if your repo is <username>.github.io
+baseurl: ""
 description: Hale Manoa is an application to connect you with prospective roomates and off-campus housing.
 theme: jekyll-theme-architect
