@@ -3,8 +3,9 @@
 
 * [About Hale Manoa](#about-hale-manoa)
   * [Key Features](#key-features)
-  * [Guided Tour](#guided-tour)
   * [Sample Mockup Pages](#sample-mockup-pages)
+  * [Guided Tour](#guided-tour)
+* [Installation](#installation)
 * [Developer's Guide](#developers-guide)
 * [Development History](#development-history)
 
@@ -46,8 +47,38 @@ Hale Manoa allows students to find a roommate with similar interests. Students w
 
 # Guided Tour
 \* Coming Soon *
+
+
+
+## Installation 
+
+First, [install Meteor]( https://www.meteor.com/install).
+
+Second, [download a copy of Hale Manoa](https://github.com/hale-manoa/hale-manoa). Note: Digits is a private repo so permission needs to be granted from the author to gain access. 
+
+Third, cd into the app directory and install the required libraries with: 
+
+```
+$ meteor npm install 
+```
+
+Once the libraries are installed, you can run the application by invoking: 
+
+```
+$ meteor npm run start
+```
+
+
 # Development History
-\* Coming Soon *
+
+This milestone started on April 3, 2018 and ended on April 12, 2018
+
+The goal of Milestone 1 was to create a set of HTML pages to provide a mockup for the pages that will be in our application. This mockup was developed as a Meteor app. 
+
+Mockups for the following pages were implemented during M1:
+
+
+Milestone 1 was implemented as [Hale Manoa Github Milstone M1](https://github.com/hale-manoa/hale-manoa/milestone/1)
 
 # Contributors
   * [Akira Vernon](https://akirav.github.io/)
