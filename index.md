@@ -70,6 +70,9 @@ Landing:
 
 <img width="500px" src="images/Landing-2.png">
 
+Housing: 
+
+<img width="500px" src="images/Housing.png">
 
 Milestone 1 was implemented as [Hale Manoa Github Milstone M1](https://github.com/hale-manoa/hale-manoa/milestone/1)
 
