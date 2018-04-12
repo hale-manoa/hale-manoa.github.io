@@ -66,6 +66,10 @@ The goal of Milestone 1 was to create a set of HTML pages to provide a mockup fo
 
 Mockups for the following pages were implemented during M1:
 
+Landing: 
+
+<img width="500px" src="images/Landing.png">
+
 
 Milestone 1 was implemented as [Hale Manoa Github Milstone M1](https://github.com/hale-manoa/hale-manoa/milestone/1)
 
