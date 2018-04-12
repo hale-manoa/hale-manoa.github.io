@@ -28,19 +28,11 @@ Hale Manoa allows students to find a roommate with similar interests. Students w
 
 ## Sample Mockup Pages 
 
-# Landing
-
 <img width="300px" src="images/Landing.png">
-
-# Login
 
 <img width="300px" src="images/Login.png">
 
-# Homes
-
 <img width="300px" src="images/Homes.png">
-
-# Host
 
 <img width="300px" src="images/Host.png">
 
