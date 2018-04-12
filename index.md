@@ -16,7 +16,7 @@
 Hale Manoa allows students to find a roommate with similar interests. Students will create their own personal profile with important information such as hobbies, habits, cleanliness, pets, etc. Students can get notified when they have a match. Admins can monitor for inappropriate content and other information.
 
 
-### [Hale Manoa Web Potral is currently under development]()
+# [Hale Manoa Web Potral is deployed here: https://halemanoa.meteorapp.com](https://halemanoa.meteorapp.com/)
 
 ## Key Features
 * Create personalized profiles
@@ -73,6 +73,14 @@ Landing:
 Housing: 
 
 <img width="500px" src="images/Housing.png">
+
+User Bios: 
+
+<img width="500px" src="images/Userbios.png">
+
+Profiles:
+
+<img width="500px" src="images/Profile.png">
 
 Milestone 1 was implemented as [Hale Manoa Github Milstone M1](https://github.com/hale-manoa/hale-manoa/milestone/1)
 
