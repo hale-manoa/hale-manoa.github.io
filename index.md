@@ -43,7 +43,7 @@ Hale Manoa allows students to find a roommate with similar interests. Students w
 
 First, [install Meteor]( https://www.meteor.com/install).
 
-Second, [download a copy of Hale Manoa](https://github.com/hale-manoa/hale-manoa). Note: Digits is a private repo so permission needs to be granted from the author to gain access. 
+Second, [download a copy of Hale Manoa](https://github.com/hale-manoa/hale-manoa). Note: Hale Manoa is a private repo so permission needs to be granted from the author to gain access. 
 
 Third, cd into the app directory and install the required libraries with: 
 
