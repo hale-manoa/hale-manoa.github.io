@@ -60,6 +60,8 @@ $ meteor npm run start
 
 # Development History
 
+##  Milestone 1: Mockup Development
+
 This milestone started on April 3, 2018 and ended on April 12, 2018
 
 The goal of Milestone 1 was to create a set of HTML pages to provide a mockup for the pages that will be in our application. This mockup was developed as a Meteor app. 
@@ -82,7 +84,15 @@ Profiles:
 
 <img width="500px" src="images/Profile.png">
 
-Milestone 1 was implemented as [Hale Manoa Github Milstone M1](https://github.com/hale-manoa/hale-manoa/milestone/1)
+Milestone 1 was implemented as [Hale Manoa Github Milestone M1](https://github.com/hale-manoa/hale-manoa/projects/1)
+
+## Milestone 2
+
+This milestone started on April 12, 2018 and ended on April 24, 2018. 
+
+The goal for Milestone 2 is to create an MVP (minimum viable project) of our project. We want to finalize our pages and implement basic functionality to be able to utilize most of the aspects of our app. 
+
+Milestone 2 was implemented as [Hale Manoa Github Milestone M2](https://github.com/hale-manoa/hale-manoa/projects/2)
 
 # Contributors
   * [Akira Vernon](https://akirav.github.io/)
