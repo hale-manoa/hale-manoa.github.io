@@ -16,7 +16,6 @@
 Hale Manoa allows students to find a roommate with similar interests. Students will create their own personal profile with important information such as hobbies, habits, cleanliness, pets, etc. Students can get notified when they have a match. Admins can monitor for inappropriate content and other information.
 
 
-## [Hale Manoa Web Potral is deployed here: https://halemanoa.meteorapp.com](https://halemanoa.meteorapp.com/)
 
 ## Key Features
 * Create personalized profiles
@@ -28,7 +27,25 @@ Hale Manoa allows students to find a roommate with similar interests. Students w
 
 
 # Guided Tour
-\* Coming Soon *
+
+# [Hale Manoa Web Potral is deployed here: https://halemanoa.meteorapp.com](https://halemanoa.meteorapp.com/)
+
+When you first get to the page, you will be greeted with the landing page. This is shown below. 
+
+<img width="500px" src="images/Landing2.png">
+
+You will then need to create an account. You can do this by clicking on login at the top right corner and then clicking sign up. 
+
+<img width="500px" src="images/Signup.png">
+
+Please enter a valid email and password. 
+
+Once logged in you will be greeted with the landing page again, but with more options in the top menu. 
+
+The first thing you should do is add your user profile. You can do so by clicking the dropdown on your email in the top right corner then clicking on "my profile". You will be greeted with the following page: 
+
+<img width="500px" src="images/Addprofile.png">
+
 
 
 
