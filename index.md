@@ -28,7 +28,7 @@ Hale Manoa allows students to find a roommate with similar interests. Students w
 
 # Guided Tour
 
-[Hale Manoa Web Potral is deployed here: https://halemanoa.meteorapp.com](https://halemanoa.meteorapp.com/)
+Hale Manoa Web Potral is deployed here: [https://halemanoa.meteorapp.com](https://halemanoa.meteorapp.com/)
 
 When you first get to the page, you will be greeted with the landing page. This is shown below. 
 
