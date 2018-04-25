@@ -46,8 +46,19 @@ The first thing you should do is add your user profile. You can do so by clickin
 
 <img width="500px" src="images/Addprofile.png">
 
+After adding your profile, if you click on "connect" at the top, you will be able to view all of the user profiles that exist in the system. Currently, you are only able to filter if they are lenders or seekers, but you will eventually be able to filter by preferences to find your preferred roommate. 
 
+<img width="500px" src="images/Userbios-2.png">
 
+Clicking on the full profile will expand a user's profile for more details. The profile also includes a rating system to rate other users (maybe if they were prior roommates, etc.). 
+
+Next, you can list a location to rent out. You can do so by clicking the housing drop down at the top. Currently, every user can use it, but eventually only the users registered as a lender can use it. Additionally, the dropdown also includes a list housing to see all the housing options clicking on the button expands it into a more detailed view. Additionally, if you created a listing you would also see an option to edit your listing. 
+
+<img width="500px" src="images/Housing-2.png">
+
+The search bar on the landing page does work. You can search for other users or you can search for a listing. Clicking on the search result will either bring you to the listing's page or the user's profile page, depending on what your search result was. 
+
+<img width="500px" src="images/Searchbar.png">
 
 ## Installation
 
