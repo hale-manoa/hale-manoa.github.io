@@ -110,6 +110,7 @@ The feedback received from the participants were very informative to the team. T
 
 "Very useful app for people to not only find an affordable place to live in, but also find potential roommates and build a connection before even living together. All the functionality work great, but it would be great to be able to delete listings and get a notification when somebody messages you." - Kevin Cho
 
+# Milestones
 
 ##  Milestone 1: Mockup Development
 
