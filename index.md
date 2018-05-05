@@ -46,23 +46,23 @@ The first thing you should do is add your user profile. You can do so by clickin
 
 <img width="500px" src="images/finalproject/editprofile-final.PNG">
 
-After adding your profile, if you click on "connect" at the top, you will be able to view all of the user profiles that exist in the system. You may filter the users by time (lister or seeker) or by preferences. 
+After adding your profile, if you click on "connect" at the top, you will be able to view all of the user profiles that exist in the system. You may filter the users by time (lister or seeker) or by preferences.
 
 <img width="500px" src="images/finalproject/viewbios-final.PNG">
 
 <img width="500px" src="images/M3/FilterBio_M3.png">
 
-Clicking on the full profile will expand a user's profile for more details. The profile also includes a rating system to rate other users (maybe if they were prior roommates, etc.). 
+Clicking on the full profile will expand a user's profile for more details. The profile also includes a rating system to rate other users (maybe if they were prior roommates, etc.).
 
 <img width="500px" src="images/finalproject/viewprofile-1-final.PNG">
 
 <img width="500px" src="images/finalproject/viewprofile-2-final.PNG">
 
-It also includes a "connect" button, which allows you to connect with the user to send the user a private message. 
+It also includes a "connect" button, which allows you to connect with the user to send the user a private message.
 
 <img width="500px" src="images/finalproject/messageboard-final.PNG">
 
-Next, you can view the list of off campus housing available for rent. You can do so by clicking the "housing" button at the top. Here, you are able to filter the listings in addition to adding a listing if your user type is "lister". Clicking on "see housing detail" on the listing allows you to view a full listing in addition to a google maps location for the listing. 
+Next, you can view the list of off campus housing available for rent. You can do so by clicking the "housing" button at the top. Here, you are able to filter the listings in addition to adding a listing if your user type is "lister". Clicking on "see housing detail" on the listing allows you to view a full listing in addition to a google maps location for the listing.
 
 <img width="500px" src="images/finalproject/viewhousing-final.PNG">
 
@@ -94,11 +94,11 @@ $ meteor npm run start
 
 # Initial User Study
 
-##Description of Reviewers of the Website
+## Description of Reviewers of the Website
 
-##Method of Study
+## Method of Study
 
-##Summary of feedback
+## Summary of feedback
 
 # Development History
 
@@ -160,7 +160,7 @@ Milestone 2 was implemented as [Hale Manoa Github Milestone M2](https://github.c
 
 This milestone started on April 24, 2018 and ended on May 4, 2018.
 
-The goal for Milestone 3 is to build upon our progress in the previous milestone and further improve functionality. Many improvements were made which include comprehensive filtering for users and housing listings. Geocoding was utilized to visually display listing locations using the Google Maps API. Another significant improvement was the implementation of a real-time messaging interface between users. As the functionality aspects of our project were wrapped up, we transitioned to focus on styling the Hale Manoa site to be aesthetically pleasing. Subtle design patterns and light colors were used to keep styling appealing and minimalistic. 
+The goal for Milestone 3 is to build upon our progress in the previous milestone and further improve functionality. Many improvements were made which include comprehensive filtering for users and housing listings. Geocoding was utilized to visually display listing locations using the Google Maps API. Another significant improvement was the implementation of a real-time messaging interface between users. As the functionality aspects of our project were wrapped up, we transitioned to focus on styling the Hale Manoa site to be aesthetically pleasing. Subtle design patterns and light colors were used to keep styling appealing and minimalistic.
 
 Landing Page:
 
