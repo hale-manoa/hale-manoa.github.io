@@ -55,6 +55,7 @@ After adding your profile, if you click on "connect" at the top, you will be abl
 Clicking on the full profile will expand a user's profile for more details. The profile also includes a rating system to rate other users (maybe if they were prior roommates, etc.). 
 
 <img width="500px" src="images/finalproject/viewprofile-1-final.PNG">
+
 <img width="500px" src="images/finalproject/viewprofile-2-final.PNG">
 
 It also includes a "connect" button, which allows you to connect with the user to send the user a private message. 
