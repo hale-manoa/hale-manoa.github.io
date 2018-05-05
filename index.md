@@ -148,25 +148,65 @@ This milestone started on April 25, 2018 and ended on May 4, 2018.
 
 The goal for Milestone 3 is to build upon our progress in the previous milestone and further improve functionality. Many improvements were made which include comprehensive filtering for users and housing listings. Geocoding was utilized to visually display listing locations using the Google Maps API. Another significant improvement was the implementation of a real-time messaging interface between users. As the functionality aspects of our project were wrapped up, we transitioned to focus on styling the Hale Manoa site to be aesthetically pleasing. Subtle design patterns and light colors were used to keep styling appealing and minimalistic. 
 
-Updated Housing:
+Landing Page:
 
-<img width="500px" src="images/Housing-2.png">
+<img width="500px" src="images/M3/Landing_M3.png">
 
-Individual Housing:
+List Housing Page:
 
-<img width="500px" src="images/Individual-Housing.png">
+<img width="500px" src="images/M3/HousingList_M3.png">
+
+The "Got a Listing to Add?" button redirects lister type users to the Add Housing Page. This button is conditionally rendered based on user type so seekers will not see this button.
+
+Add Housing Page:
+
+<img width="500px" src="images/M3/AddHousing_M3.png">
+
+<img width="500px" src="images/M3/AddHousing_GoogleAPI_M3.png">
+
+Filtering Housing Listings:
+
+<img width="500px" src="images/M3/FilterHousing_M3.png">
+
+A pop-up modal is used to allow users to filter listings based on various data fields.
 
 Edit Housing:
 
-<img width="500px" src="images/Edit_Housing.png">
+<img width="500px" src="images/M3/EditHousing_M3.png">
 
-User Bios Search Bar:
+Individual Housing:
 
-<img width="500px" src="images/Userbios-2.png">
+<img width="500px" src="images/M3/ViewHousing_M3.png">
 
-User Bios Search Preferences:
+This page displays all information associated with the listing along with a picture. Contact information for the lister is also shown in addition to the listing location on island using the Google Maps API.
 
-<img width="500px" src="images/Userbios-3.png">
+Display User Bios:
+
+<img width="500px" src="images/M3/Connect_M3.png">
+
+Filter User Bios:
+
+<img width="500px" src="images/M3/FilterBio_M3.png">
+
+<img width="500px" src="images/M3/FilterBioResults_M3.png">
+
+Similar to the housing filtering, users can also be filtered based on numerous data fields.
+
+View User Profile:
+
+<img width="500px" src="images/M3/Biosand.png">
+
+<img width="500px" src="images/M3/ViewBios_M3.png">
+
+This page displays all information associated with the selected user. Their listings are conditionally rendered depending on their user type. Users can leave rated reviews of each other directly on their profile page.
+
+Messaging Interface:
+
+<img width="500px" src="images/M3/BioConnect_M3.png">
+
+<img width="500px" src="images/M3/PhilipHenriv2_M3.png">
+
+By clicking the "Connect" button on a user's profile, you can start a private conversation with them. Simply navigate to the "Message" tab and chat away! The messaging interface updates in real time so you will be able to see each other's messages instantly after they are sent.
 
 Milestone 3 was implemented as [Hale Manoa Github Milestone M3](https://github.com/hale-manoa/hale-manoa/projects/3)
 
