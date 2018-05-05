@@ -144,7 +144,7 @@ Milestone 2 was implemented as [Hale Manoa Github Milestone M2](https://github.c
 
 ## Milestone 3
 
-This milestone started on April 25, 2018 and ended on May 4, 2018.
+This milestone started on April 24, 2018 and ended on May 4, 2018.
 
 The goal for Milestone 3 is to build upon our progress in the previous milestone and further improve functionality. Many improvements were made which include comprehensive filtering for users and housing listings. Geocoding was utilized to visually display listing locations using the Google Maps API. Another significant improvement was the implementation of a real-time messaging interface between users. As the functionality aspects of our project were wrapped up, we transitioned to focus on styling the Hale Manoa site to be aesthetically pleasing. Subtle design patterns and light colors were used to keep styling appealing and minimalistic. 
 
