@@ -36,7 +36,7 @@ When you first get to the page, you will be greeted with the landing page. This 
 
 You will then need to create an account. You can do this by clicking on login at the top right corner and then clicking sign up.
 
-<img width="500px" src="images/finalproject/register-final.PNG">
+<img width="500px" src="images/finalproject/register-final.png">
 
 Please enter a valid email and password.
 
