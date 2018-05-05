@@ -92,17 +92,15 @@ Once the libraries are installed, you can run the application by invoking:
 $ meteor npm run start
 ```
 
-## Initial User Study
+# Initial User Study
 
 Initial testing for Hale Manoa was done by a group of UH Manoa students with various backgrounds and fields of study. We were able to experience feedback from students who have previously looked for housing, have previous experience in development, and from those who are not tech-savvy.
 
 Deploying Hale-Manoa to Galaxy has allowed our participants to test our website remotely. Each participant was tasked to make an account, update their profile, add a listing, edit their listing, filter through listing/user, and connect/message another user. The participant then filled out a survey which asked for the strengths, weakness, and future improvements that should be made to the site.
 
-Summary of Feedback
-
 The feedback received from the participants were very informative to the team. The participants really liked the functionality of the app, as it was self-explanatory and well-designed. Some functionality highlighted include: filtering through users and housing, connecting and messaging other users, and displaying the location of the property through geocoding of the address. Participants suggest that we should improve the user interface of the application, add a notification when someone connects/messages you, deleting a listing, and include more information that can be added to the listings. Overall, the initial testing for Hale-Manoa was very successful as it highlighted the strengths, weaknesses, and areas of improvement for our app.
 
-# User Feedback
+## User Feedback
 
 "Functions of app are self-explanatory. That's good!" - Sharie Anne Mamuad
 
