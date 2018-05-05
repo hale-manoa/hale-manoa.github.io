@@ -135,6 +135,34 @@ User Bios Search Preferences:
 
 Milestone 2 was implemented as [Hale Manoa Github Milestone M2](https://github.com/hale-manoa/hale-manoa/projects/2)
 
+## Milestone 3
+
+This milestone started on April 25, 2018 and ended on May 4, 2018.
+
+The goal for Milestone 3 is to create an MVP (minimum viable project) of our project. We want to finalize our pages and implement basic functionality to be able to utilize most of the aspects of our app.
+
+Updated Housing:
+
+<img width="500px" src="images/Housing-2.png">
+
+Individual Housing:
+
+<img width="500px" src="images/Individual-Housing.png">
+
+Edit Housing:
+
+<img width="500px" src="images/Edit_Housing.png">
+
+User Bios Search Bar:
+
+<img width="500px" src="images/Userbios-2.png">
+
+User Bios Search Preferences:
+
+<img width="500px" src="images/Userbios-3.png">
+
+Milestone 3 was implemented as [Hale Manoa Github Milestone M3](https://github.com/hale-manoa/hale-manoa/projects/3)
+
 # Contributors
   * [Akira Vernon](https://akirav.github.io/)
   * [Kyle Chan](https://kyle-chan.github.io/)
