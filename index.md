@@ -36,7 +36,7 @@ When you first get to the page, you will be greeted with the landing page. This 
 
 You will then need to create an account. You can do this by clicking on login at the top right corner and then clicking sign up.
 
-<img width="500px" src="images/Signup.png">
+<img width="500px" src="images/finalproject/register-final.PNG">
 
 Please enter a valid email and password.
 
@@ -44,17 +44,31 @@ Once logged in you will be greeted with the landing page again, but with more op
 
 The first thing you should do is add your user profile. You can do so by clicking the dropdown on your email in the top right corner then clicking on "my profile". You will be greeted with the following page:
 
-<img width="500px" src="images/Addprofile.png">
+<img width="500px" src="images/finalproject/editprofile-final.PNG">
 
-After adding your profile, if you click on "connect" at the top, you will be able to view all of the user profiles that exist in the system. Currently, you are only able to filter if they are lenders or seekers, but you will eventually be able to filter by preferences to find your preferred roommate.
+After adding your profile, if you click on "connect" at the top, you will be able to view all of the user profiles that exist in the system. You may filter the users by time (lister or seeker) or by preferences. 
 
-<img width="500px" src="images/Userbios-2.png">
+<img width="500px" src="images/finalproject/viewbios-final.PNG">
 
-Clicking on the full profile will expand a user's profile for more details. The profile also includes a rating system to rate other users (maybe if they were prior roommates, etc.).
+<img width="500px" src="images/M3/FilterBio_M3.png">
 
-Next, you can list a location to rent out. You can do so by clicking the housing drop down at the top. Currently, every user can use it, but eventually only the users registered as a lender can use it. Additionally, the dropdown also includes a list housing to see all the housing options clicking on the button expands it into a more detailed view. Additionally, if you created a listing you would also see an option to edit your listing.
+Clicking on the full profile will expand a user's profile for more details. The profile also includes a rating system to rate other users (maybe if they were prior roommates, etc.). 
 
-<img width="500px" src="images/Housing-2.png">
+<img width="500px" src="images/finalproject/viewprofile-1-final.PNG">
+
+<img width="500px" src="images/finalproject/viewprofile-2-final.PNG">
+
+It also includes a "connect" button, which allows you to connect with the user to send the user a private message. 
+
+<img width="500px" src="images/finalproject/messageboard-final.PNG">
+
+Next, you can view the list of off campus housing available for rent. You can do so by clicking the "housing" button at the top. Here, you are able to filter the listings in addition to adding a listing if your user type is "lister". Clicking on "see housing detail" on the listing allows you to view a full listing in addition to a google maps location for the listing. 
+
+<img width="500px" src="images/finalproject/viewhousing-final.PNG">
+
+<img width="500px" src="images/finalproject/addlisting-final.PNG">
+
+<img width="500px" src="images/finalproject/fullhousing-final.PNG">
 
 The search bar on the landing page does work. You can search for other users or you can search for a listing. Clicking on the search result will either bring you to the listing's page or the user's profile page, depending on what your search result was.
 
